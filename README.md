@@ -22,7 +22,7 @@ The script:
 - Creates a suitable directory structure for storing a basic Flask webapp
 - Creates a [Python virtualenv](https://virtualenv.pypa.io/en/stable/)
 - Installs Flask and its dependencies into the virtualenv
-- Creates skeleton Flask app with a base [Jina2](http://jinja.pocoo.org/) template that loads the libraries below
+- Creates skeleton Flask app with a base [Jinja2](http://jinja.pocoo.org/) template that loads the libraries below
 - Installs these Bower-managed frameworks:
     - jQuery 1.x
     - Bootstrap 4.x (latest alpha)
